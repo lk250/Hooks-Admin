@@ -11,7 +11,6 @@ import zhCN from "antd/lib/locale/zh_CN";
 import enUS from "antd/lib/locale/en_US";
 import i18n from "i18next";
 import "moment/dist/locale/zh-cn";
-// 1111111111111111111111
 
 const App = (props: any) => {
 	const { language, assemblySize, themeConfig, setLanguage } = props;
